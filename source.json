@@ -17,18 +17,18 @@
       "tintColor": "#8DB83A",
       "category": "lifestyle",
       "version": "1.0.0",
-      "versionDate": "2026-11-03T17:42:44Z",
+      "versionDate": "2026-11-03T17:44:45Z",
       "versionDescription": "First version of Pip: log spending with a calculator keypad, daily streaks with Pip cheering you on, insights by category, daily reminders, and home-screen widgets.",
       "downloadURL": "https://github.com/apostoloskotsiras/pip-releases/releases/download/ios-1/Pip.ipa",
-      "size": 824462,
+      "size": 824464,
       "versions": [
         {
           "version": "1.0.0",
           "buildVersion": "1",
-          "date": "2026-11-03T17:42:44Z",
+          "date": "2026-11-03T17:44:45Z",
           "localizedDescription": "First version of Pip: log spending with a calculator keypad, daily streaks with Pip cheering you on, insights by category, daily reminders, and home-screen widgets.",
           "downloadURL": "https://github.com/apostoloskotsiras/pip-releases/releases/download/ios-1/Pip.ipa",
-          "size": 824462,
+          "size": 824464,
           "minOSVersion": "17.0"
         }
       ],
