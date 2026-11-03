@@ -1,0 +1,44 @@
+{
+  "name": "Pip",
+  "identifier": "com.ampouzer.pip.source",
+  "subtitle": "Pip, the money tracker with a coin mascot",
+  "description": "Add this source to install Pip and get its updates.",
+  "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/pip-releases/main/icon.png",
+  "website": "https://github.com/apostoloskotsiras/pip-releases",
+  "tintColor": "#8DB83A",
+  "apps": [
+    {
+      "name": "Pip",
+      "bundleIdentifier": "com.ampouzer.pip",
+      "developerName": "apostoloskotsiras",
+      "subtitle": "Track spending with Pip",
+      "localizedDescription": "Log what you spend in seconds, keep a daily streak, and see where your money goes. Pip cheers you on.",
+      "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/pip-releases/main/icon.png",
+      "tintColor": "#8DB83A",
+      "category": "lifestyle",
+      "version": "1.0.0",
+      "versionDate": "2026-11-03T17:42:44Z",
+      "versionDescription": "First version of Pip: log spending with a calculator keypad, daily streaks with Pip cheering you on, insights by category, daily reminders, and home-screen widgets.",
+      "downloadURL": "https://github.com/apostoloskotsiras/pip-releases/releases/download/ios-1/Pip.ipa",
+      "size": 824462,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-03T17:42:44Z",
+          "localizedDescription": "First version of Pip: log spending with a calculator keypad, daily streaks with Pip cheering you on, insights by category, daily reminders, and home-screen widgets.",
+          "downloadURL": "https://github.com/apostoloskotsiras/pip-releases/releases/download/ios-1/Pip.ipa",
+          "size": 824462,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
